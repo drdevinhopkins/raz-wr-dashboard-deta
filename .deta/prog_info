@@ -1,0 +1,1 @@
+{"id":"17f05191-5c7d-4470-b6dc-4b9a58b9690f","space":4463,"runtime":"python3.9","name":"raz-wr-dashboard","path":"y9ldpv","project":"b0yok637","account":"144798365827","region":"us-west-1","deps":["fastapi","pandas"],"envs":null,"public":true,"log_level":"debug","cron":""}
